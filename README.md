@@ -1,2 +1,4 @@
 # C2023
-NTU CSIE Introduction to Computer Programming 2023 quizzes
+Introduction to Computer Programming 2023 quizzes
+Dept. of Computer Science & Information Engineering
+National Taiwan University
